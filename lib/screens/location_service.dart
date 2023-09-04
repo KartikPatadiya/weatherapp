@@ -19,6 +19,6 @@ class LocationService {
       throw Exception(
           'Location permission permanently denied. Please enable it in device settings.');
     }
-    return null; // Handle other permission statuses if needed
+    return null; // Handle other permission statuses if needed..
   }
 }
