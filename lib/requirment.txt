@@ -1,0 +1,26 @@
+Requirements:
+● Create a Flutter mobile application that fetches weather data from a free weather API (e.g., OpenWeatherMap).
+● Display the current weather conditions (temperature and weather description) for the user's current location.
+● Implement error handling for scenarios like failed API requests.
+● Use a state management approach (e.g., Provider, Bloc) to handle data flow.
+Instructions:
+● Set up a new Flutter project.
+● Implement API integration to fetch weather data for the user's location using a weather
+API of your choice.
+● Design a simple and clean UI to display the current weather information.
+● Introduce state management (e.g., Provider, Bloc) to handle app state and data flow
+efficiently.
+● Parse the weather data from the API response and display the current weather
+conditions on the main screen.
+● Handle errors gracefully in case of failed API requests.
+● Conduct thorough testing of the app to ensure it works as expected.
+● (Optional) If time permits, you can add some basic UI enhancements or implement dark
+mode support.
+Evaluation:
+The evaluation for this simplified Weather App task will be based on the following criteria:
+● Ability to create a functional Flutter app that fetches weather data from an API and
+displays it on the UI.
+● Efficient use of state management to handle data flow.
+● Proper error handling for API requests.
+● Code quality and adherence to Flutter best practices.
+● (Optional) Any additional UI enhancements or features implemented.
